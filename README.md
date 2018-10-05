@@ -14,9 +14,8 @@ Summary: Enable rapid iteration and development of data workflows
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/flo-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/flo-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/flo-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/flo-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/flo-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/flo-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/flo-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/flo-feedstock)
 
 Current release info
 ====================
